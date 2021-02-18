@@ -149,8 +149,8 @@ table {
   margin-right: 20%;
 }
 
-.block1 {
-  height: 15rem;
+.block-2-1 {
+  height: 16rem;
   width: 22rem;
   margin: 10px;
 
@@ -158,8 +158,8 @@ table {
   vertical-align: top;
 }
 
-.block2 {
-  height: 30rem;
+.block-2-2 {
+  height: 34rem;
   width: 22rem;
   margin: 10px;
   vertical-align: top;
@@ -167,7 +167,7 @@ table {
 }
 
 img {
-  height: 15rem;
+  height: 16rem;
   width: 22rem;
 }
 
