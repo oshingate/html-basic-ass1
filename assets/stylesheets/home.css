@@ -159,14 +159,14 @@ table {
 
   background-color: #99d8ca;
 
-  border: 1rem solid #5873e2;
+  outline: 0.5rem inset #5873e2;
+  outline-offset: -1rem;
 
-  outline: 0.5rem inset #0d1430;
-
-  box-shadow: 1.5rem 1.5rem #90ffa9, -1.5rem 1.5rem #90ffa9,
-    1.5rem -1.5rem #90ffa9, -1.5rem -1.5rem #90ffa9;
+  box-shadow: 1rem 1rem #90ffa9, -1rem 1rem #90ffa9, 1rem -1rem #90ffa9,
+    -1rem -1rem #90ffa9;
 
   border-radius: 10%;
+  border: 1rem solid #0d1430;
 }
 
 .row1 {
